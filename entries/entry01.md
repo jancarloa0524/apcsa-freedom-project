@@ -7,7 +7,7 @@ While I have decided on what tool I will use and the project I will create, I th
 
 I have decided on [OpenCV](https://opencv.org/), a library used to process images sent to a computer, mainly in real-time. This works perfectly with my project idea, which is to create a program that will recognize a kick/block/punch/etc being thrown. From there, it could even learn to recognize sequences of kicks and punches, in order to show combinations.
 
-I did not consider much else, becuase I already had a little bit of experience working with OpenCV in the past. I did find courses that I could use to learn OpenCV ([Link 1](https://www.udemy.com/course/hands-on-machine-learning-with-opencv-4/)[Link 2](https://www.udemy.com/course/computer-vision-and-machine-learning-with-opencv-4/)), as well as a [Youtube](https://www.youtube.com/watch?v=cBQ4c1IQJSE) video that could help me learn Python.
+I did not consider much else, becuase I already had a little bit of experience working with OpenCV in the past. I did find courses that I could use to learn OpenCV ([Link 1](https://www.udemy.com/course/hands-on-machine-learning-with-opencv-4/), [Link 2](https://www.udemy.com/course/computer-vision-and-machine-learning-with-opencv-4/)), as well as a [Youtube](https://www.youtube.com/watch?v=cBQ4c1IQJSE) video that could help me learn Python.
 ### EDP
 I am currently at stage 2 of the **Engineering Design Process**, since I have identified the project I want to work on, and have to commit to researching it. 
 ### Skills
