@@ -1,4 +1,4 @@
-# Entry 1: The !(Final) Decision
+# Entry 1 - The !(Final) Decision
 ##### 11/10/22
 
 ### My Decision

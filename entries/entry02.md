@@ -1,4 +1,4 @@
-# Entry 2: letsBegin.py
+# Entry 2 - letsBegin.py
 ## 12/18/22
 
 Over the past few weeks, I have been learning about Python, in order to learn through the courses on visual machine learning that I bought. I have been following the [YouTube Video](https://www.youtube.com/watch?v=cBQ4c1IQJSE), so that over the break, I could start to learn actual machine learning. 
@@ -115,7 +115,7 @@ Over the winter break, I want to use all that I have learned in order to learn a
 
 I'm definetly still at stage 2 of the **Engineering Design Process**, however as I am learning more about Python and machine learning, I feel I can move on to also brainstorming and planning out my project.
 
-### SKills
+### Skills
 
 A skill I feel I worked on this time is **How to learn**, beacuse of the fact that I have been teaching myself Python through online tutorials. 
 
