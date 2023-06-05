@@ -6,6 +6,8 @@ The *Freedom Project* for APCSA is all about creating anything that we want, tha
 
 The **purpose** of this blog is to document the journey I took in learning everything I learned in order to end up with my final product, a Computer Vision Deep Learning Model that can recognize martial arts techniques, and be used to develop a suite of tools for martial arts training.
 
+![Demo](img/newgif.gif)
+
 ## Content
 For my project, I am making a Computer Vision Program that uses a Deep Learning Model trained to recognize martial arts techniques in order to provide training tools for martial artists. This blog will walk through my process of independently studying several development tools in order to make both the model, and the tools.
 
