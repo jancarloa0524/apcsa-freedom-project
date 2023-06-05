@@ -1,13 +1,13 @@
 # Entry 6 - `model.save(proto_2.h5)`
 ### 6/4/23
 
-After completing my **minimum viable product (MVP)** in my last entry, I wasn't exactly satisfied with the way detections were actually being made. While my program did make detections, it wasn't necessarily accurate, since it only checked a single frame to see if a move had been made. The problem with this is that movement doesn't happen over a single frame. So, this time I learned just a bit about something called [TensorFlow](), and learned about detecting complete motion through this [tutorial](), in order to create my [2nd Prototype]()!
+After completing my **minimum viable product (MVP)** in my last entry, I wasn't exactly satisfied with the way detections were actually being made. While my program did make detections, it wasn't necessarily accurate, since it only checked a single frame to see if a move had been made. The problem with this is that movement doesn't happen over a single frame. So, this time I learned just a bit about something called [TensorFlow](https://www.youtube.com/watch?v=6_2hzRopPbQ), and learned about detecting complete motion through this [tutorial](https://www.youtube.com/watch?v=doDUihpj6ro), in order to create my [2nd Prototype](https://github.com/jancarloa0524/tkd-pose-detection)!
 
 Later in this blog, I will talk about my experience giving my in-class [presentation](https://docs.google.com/presentation/d/1FeGKmW4rUroUsBJIB_JAE8QlwqM7RTan5QHmJDLA9gs/edit?usp=sharing), and also my experience giving my elevator pitch during the [SEP Freedom Project Expo](https://docs.google.com/document/d/1KWElCYnIoxcg4EEcW3FhXSfx1K0eptsTUh54YwEj-o4/edit?usp=sharing).
 
 ## Beyond the MVP
 
-While the previous prototype used [Sci-Kit Learn]() in order to train a model, which only uses classicial machine learning algorithms, this prototype used a more complicated **Neural Network Deep Learning algorithm**. This is done with [TensorFlow](), a free and open source machine learning and AI library developed by Google. Nueral Networks are layered networks of neurons that learn and process data in order to create a more accurate output each time it is trained. 
+While the previous prototype used [Sci-Kit Learn](https://scikit-learn.org/stable/modules/classes.html) in order to train a model, which only uses classicial machine learning algorithms, this prototype used a more complicated **Neural Network Deep Learning algorithm**. This is done with [TensorFlow](https://www.tensorflow.org/api_docs/python/tf?version=nightly), a free and open source machine learning and AI library developed by Google. Nueral Networks are layered networks of neurons that learn and process data in order to create a more accurate output each time it is trained. 
 
 ### How Does This Work?
 
