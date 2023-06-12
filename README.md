@@ -28,6 +28,22 @@ However, the potential **negative** effects of my project do exist economically:
 [Product](https://github.com/jancarloa0524/tkd-pose-detection)
 
 [Presentation](https://docs.google.com/presentation/d/1FeGKmW4rUroUsBJIB_JAE8QlwqM7RTan5QHmJDLA9gs/edit?usp=sharing)
+
+[Showcase Presentation](https://docs.google.com/presentation/d/1ShGGG84SksOlNmdpfoudYaDTx5CihWvonhUhYhl6PpI/edit?usp=sharing)
+
+*List of Tools I used for learning/creating this project:*
+- [Udemy Course 1](https://www.udemy.com/course/hands-on-machine-learning-with-opencv-4/)
+- [Udemy Course 2](https://www.udemy.com/course/computer-vision-and-machine-learning-with-opencv-4/)
+- [Python Tutorial](https://www.youtube.com/watch?v=cBQ4c1IQJSE)
+- [Nicholas Renotte in general is incredible for learning everything machine learning](https://www.youtube.com/@NicholasRenotte)
+- [Hollistic Model (Helped me with implementing pose detection)](https://www.youtube.com/watch?v=pG4sUNDOZFg)
+- [AI Body Language Decoder (Helped me with learning how to do some classical machine learning)](https://www.youtube.com/watch?v=We1uB79Ci-w)
+- [Quick TensorFlow Tutorial](https://www.youtube.com/watch?v=6_2hzRopPbQ)
+- [Sign Language Detection (Helped me to learn about programming neural networks)](https://www.youtube.com/watch?v=doDUihpj6ro)
+- [Awesome Neural Networks explanation by 3Blue1Brown](https://www.youtube.com/playlist?list=PLZHQObOWTQDNU6R1_67000Dx_ZCJB-3pi)
+- [More Tensorflow Tutorials](https://www.youtube.com/watch?v=tPYj3fFJGjk&t=4769s)
+- [Tensors explained](https://www.youtube.com/watch?v=L35fFDpwIM4)
+
 ---
 
 * [Blog Entry 1](entries/entry01.md)
